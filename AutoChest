@@ -1,3 +1,1221 @@
+-- Script Auto Chest Blox Fruit Zero Manager By ZeroNokami | Bug Fixes By ZeroNokami | Hữu Tình dz
+-- Vietnam Is Number One cali tuổi lồn
+-- HTC Dream
+-- HTC Magic
+-- HTC Hero
+-- HTC Desire
+-- HTC Desire HD
+-- HTC Desire Z
+-- HTC One
+-- HTC One X
+-- HTC One M7
+-- HTC One M8
+-- HTC One M9
+-- HTC U11
+-- HTC U12+
+-- Samsung Galaxy i7500
+-- Samsung Galaxy S
+-- Samsung Galaxy S2
+-- Samsung Galaxy S3
+-- Samsung Galaxy S4
+-- Samsung Galaxy S5
+-- Samsung Galaxy S6
+-- Samsung Galaxy S6 Edge
+-- Samsung Galaxy S7
+-- Samsung Galaxy S7 Edge
+-- Samsung Galaxy S8
+-- Samsung Galaxy S8+
+-- Samsung Galaxy S9
+-- Samsung Galaxy S9+
+-- Samsung Galaxy S10e
+-- Samsung Galaxy S10
+-- Samsung Galaxy S10+
+-- Samsung Galaxy S20
+-- Samsung Galaxy S20+
+-- Samsung Galaxy S20 Ultra
+-- Samsung Galaxy S21
+-- Samsung Galaxy S21+
+-- Samsung Galaxy S21 Ultra
+-- Samsung Galaxy S22
+-- Samsung Galaxy S22+
+-- Samsung Galaxy S22 Ultra
+-- Samsung Galaxy S23
+-- Samsung Galaxy S23+
+-- Samsung Galaxy S23 Ultra
+-- Samsung Galaxy S24
+-- Samsung Galaxy S24+
+-- Samsung Galaxy S24 Ultra
+-- Samsung Galaxy Note
+-- Samsung Galaxy Note 2
+-- Samsung Galaxy Note 3
+-- Samsung Galaxy Note 4
+-- Samsung Galaxy Note 5
+-- Samsung Galaxy Note 7
+-- Samsung Galaxy Note 8
+-- Samsung Galaxy Note 9
+-- Samsung Galaxy Note 10
+-- Samsung Galaxy Note 10+
+-- Samsung Galaxy Note 20
+-- Samsung Galaxy Note 20 Ultra
+-- Samsung Galaxy A3
+-- Samsung Galaxy A5
+-- Samsung Galaxy A7
+-- Samsung Galaxy A8
+-- Samsung Galaxy A8+
+-- Samsung Galaxy A10
+-- Samsung Galaxy A10s
+-- Samsung Galaxy A11
+-- Samsung Galaxy A12
+-- Samsung Galaxy A13
+-- Samsung Galaxy A14
+-- Samsung Galaxy A15
+-- Samsung Galaxy A20
+-- Samsung Galaxy A20s
+-- Samsung Galaxy A21
+-- Samsung Galaxy A21s
+-- Samsung Galaxy A22
+-- Samsung Galaxy A22 5G
+-- Samsung Galaxy A23
+-- Samsung Galaxy A24
+-- Samsung Galaxy A30
+-- Samsung Galaxy A30s
+-- Samsung Galaxy A31
+-- Samsung Galaxy A32
+-- Samsung Galaxy A32 5G
+-- Samsung Galaxy A33 5G
+-- Samsung Galaxy A34 5G
+-- Samsung Galaxy A35 5G
+-- Samsung Galaxy A50
+-- Samsung Galaxy A50s
+-- Samsung Galaxy A51
+-- Samsung Galaxy A52
+-- Samsung Galaxy A52 5G
+-- Samsung Galaxy A52s 5G
+-- Samsung Galaxy A53 5G
+-- Samsung Galaxy A54 5G
+-- Samsung Galaxy A55 5G
+-- Samsung Galaxy A70
+-- Samsung Galaxy A71
+-- Samsung Galaxy A72
+-- Samsung Galaxy A73 5G
+-- Samsung Galaxy Z Fold
+-- Samsung Galaxy Z Fold2
+-- Samsung Galaxy Z Fold3
+-- Samsung Galaxy Z Fold4
+-- Samsung Galaxy Z Fold5
+-- Samsung Galaxy Z Flip
+-- Samsung Galaxy Z Flip3
+-- Samsung Galaxy Z Flip4
+-- Samsung Galaxy Z Flip5
+-- Xiaomi Mi 1
+-- Xiaomi Mi 2
+-- Xiaomi Mi 3
+-- Xiaomi Mi 4
+-- Xiaomi Mi 5
+-- Xiaomi Mi 6
+-- Xiaomi Mi 8
+-- Xiaomi Mi 9
+-- Xiaomi Mi 10
+-- Xiaomi Mi 10 Pro
+-- Xiaomi Mi 11
+-- Xiaomi Mi 11 Ultra
+-- Xiaomi 12
+-- Xiaomi 12 Pro
+-- Xiaomi 12T
+-- Xiaomi 12T Pro
+-- Xiaomi 13
+-- Xiaomi 13 Pro
+-- Xiaomi 13 Ultra
+-- Xiaomi 14
+-- Xiaomi 14 Pro
+-- Xiaomi 14 Ultra
+-- Redmi 1
+-- Redmi 2
+-- Redmi 3
+-- Redmi 4
+-- Redmi 4A
+-- Redmi 5
+-- Redmi 5A
+-- Redmi 6
+-- Redmi 6A
+-- Redmi 7
+-- Redmi 7A
+-- Redmi 8
+-- Redmi 8A
+-- Redmi 9
+-- Redmi 9A
+-- Redmi 9C
+-- Redmi 10
+-- Redmi 10A
+-- Redmi 11
+-- Redmi 12
+-- Redmi 13C
+-- Redmi Note
+-- Redmi Note 2
+-- Redmi Note 3
+-- Redmi Note 4
+-- Redmi Note 5
+-- Redmi Note 6 Pro
+-- Redmi Note 7
+-- Redmi Note 8
+-- Redmi Note 8 Pro
+-- Redmi Note 9
+-- Redmi Note 9 Pro
+-- Redmi Note 10
+-- Redmi Note 10 Pro
+-- Redmi Note 11
+-- Redmi Note 11 Pro
+-- Redmi Note 12
+-- Redmi Note 12 Pro
+-- Redmi Note 12 Pro+
+-- Redmi Note 13
+-- Redmi Note 13 Pro
+-- Redmi Note 13 Pro+
+-- POCO F1
+-- POCO F2 Pro
+-- POCO F3
+-- POCO F4
+-- POCO F5
+-- POCO X3 NFC
+-- POCO X3 Pro
+-- POCO X4 Pro
+-- POCO X5
+-- POCO X6
+-- POCO X6 Pro
+-- POCO M3
+-- POCO M4 Pro
+-- POCO M5
+-- OPPO Find 5
+-- OPPO Find 7
+-- OPPO Find X
+-- OPPO Find X2
+-- OPPO Find X3 Pro
+-- OPPO Find X5 Pro
+-- OPPO Find X6 Pro
+-- OPPO Find X7 Ultra
+-- OPPO Reno
+-- OPPO Reno2
+-- OPPO Reno3
+-- OPPO Reno4
+-- OPPO Reno5
+-- OPPO Reno6
+-- OPPO Reno7
+-- OPPO Reno8
+-- OPPO Reno9
+-- OPPO Reno10
+-- OPPO Reno11
+-- OPPO A3s
+-- OPPO A5
+-- OPPO A7
+-- OPPO A9
+-- OPPO A16
+-- OPPO A17
+-- OPPO A18
+-- OPPO A31
+-- OPPO A54
+-- OPPO A57
+-- OPPO A58
+-- OPPO A78
+-- OPPO A98
+-- vivo X20
+-- vivo X21
+-- vivo X50
+-- vivo X60
+-- vivo X70
+-- vivo X80
+-- vivo X90
+-- vivo X100
+-- vivo V5
+-- vivo V7
+-- vivo V9
+-- vivo V11
+-- vivo V15
+-- vivo V17
+-- vivo V19
+-- vivo V21
+-- vivo V23
+-- vivo V25
+-- vivo V27
+-- vivo V29
+-- vivo Y11
+-- vivo Y12
+-- vivo Y15
+-- vivo Y17
+-- vivo Y20
+-- vivo Y21
+-- vivo Y22
+-- vivo Y36
+-- realme 1
+-- realme 2
+-- realme 3
+-- realme 5
+-- realme 6
+-- realme 7
+-- realme 8
+-- realme 9
+-- realme 10
+-- realme 11
+-- realme 12
+-- realme X
+-- realme X2
+-- realme X3
+-- realme GT
+-- realme GT Neo
+-- realme GT Neo2
+-- realme GT Neo3
+-- realme GT5
+-- realme GT5 Pro
+-- realme C1
+-- realme C2
+-- realme C3
+-- realme C11
+-- realme C15
+-- realme C25
+-- realme C30
+-- realme C35
+-- realme C55
+-- Google Nexus One
+-- Google Nexus S
+-- Galaxy Nexus
+-- Nexus 4
+-- Nexus 5
+-- Nexus 5X
+-- Nexus 6
+-- Nexus 6P
+-- Google Pixel
+-- Google Pixel XL
+-- Google Pixel 2
+-- Google Pixel 2 XL
+-- Google Pixel 3
+-- Google Pixel 3 XL
+-- Google Pixel 4
+-- Google Pixel 4 XL
+-- Google Pixel 5
+-- Google Pixel 5a
+-- Google Pixel 6
+-- Google Pixel 6 Pro
+-- Google Pixel 6a
+-- Google Pixel 7
+-- Google Pixel 7 Pro
+-- Google Pixel 7a
+-- Google Pixel 8
+-- Google Pixel 8 Pro
+-- OnePlus One
+-- OnePlus 2
+-- OnePlus 3
+-- OnePlus 3T
+-- OnePlus 5
+-- OnePlus 5T
+-- OnePlus 6
+-- OnePlus 6T
+-- OnePlus 7
+-- OnePlus 7 Pro
+-- OnePlus 7T
+-- OnePlus 8
+-- OnePlus 8 Pro
+-- OnePlus 9
+-- OnePlus 9 Pro
+-- OnePlus 10 Pro
+-- OnePlus 11
+-- OnePlus 12
+-- OnePlus Nord
+-- OnePlus Nord 2
+-- OnePlus Nord 3
+-- OnePlus Nord CE
+-- OnePlus Nord CE 2
+-- OnePlus Nord CE 3 Lite
+-- Sony Xperia Z
+-- Sony Xperia Z1
+-- Sony Xperia Z2
+-- Sony Xperia Z3
+-- Sony Xperia Z5
+-- Sony Xperia XZ
+-- Sony Xperia XZ1
+-- Sony Xperia XZ2
+-- Sony Xperia 1
+-- Sony Xperia 1 II
+-- Sony Xperia 1 III
+-- Sony Xperia 1 IV
+-- Sony Xperia 1 V
+-- Sony Xperia 5
+-- Sony Xperia 5 II
+-- Sony Xperia 5 III
+-- Sony Xperia 5 IV
+-- Sony Xperia 5 V
+-- Sony Xperia 10
+-- Sony Xperia 10 II
+-- Sony Xperia 10 III
+-- Sony Xperia 10 IV
+-- Sony Xperia 10 V
+-- ASUS Zenfone 2
+-- ASUS Zenfone 3
+-- ASUS Zenfone 4
+-- ASUS Zenfone 5
+-- ASUS Zenfone 6
+-- ASUS Zenfone 7
+-- ASUS Zenfone 8
+-- ASUS Zenfone 9
+-- ASUS Zenfone 10
+-- ASUS ROG Phone
+-- ASUS ROG Phone 2
+-- ASUS ROG Phone 3
+-- ASUS ROG Phone 5
+-- ASUS ROG Phone 6
+-- ASUS ROG Phone 7
+-- ASUS ROG Phone 8
+-- Motorola Moto G
+-- Motorola Moto G2
+-- Motorola Moto G3
+-- Motorola Moto G4
+-- Motorola Moto G5
+-- Motorola Moto G6
+-- Motorola Moto G7
+-- Motorola Moto G8
+-- Motorola Moto G9
+-- Motorola Moto G10
+-- Motorola Moto G20
+-- Motorola Moto G30
+-- Motorola Moto G50
+-- Motorola Edge
+-- Motorola Edge 20
+-- Motorola Edge 30
+-- Motorola Edge 40
+-- Motorola Edge 40 Pro
+-- Huawei P6
+-- Huawei P7
+-- Huawei P8
+-- Huawei P9
+-- Huawei P10
+-- Huawei P20
+-- Huawei P30
+-- Huawei P40
+-- Huawei P50
+-- Huawei P60
+-- Huawei Mate 10
+-- Huawei Mate 20
+-- Huawei Mate 30
+-- Huawei Mate 40
+-- Huawei Mate 50
+-- Huawei Mate 60
+-- Huawei Nova 3
+-- Huawei Nova 5
+-- Huawei Nova 7
+-- Huawei Nova 9
+-- Huawei Nova 11
+-- Honor 8
+-- Honor 9
+-- Honor 10
+-- Honor 20
+-- Honor 30
+-- Honor 50
+-- Honor 70
+-- Honor 90
+-- Honor Magic
+-- Honor Magic2
+-- Honor Magic4
+-- Honor Magic5
+-- Honor Magic6
+-- Nokia 1
+-- Nokia 2
+-- Nokia 2.1
+-- Nokia 3
+-- Nokia 3.1
+-- Nokia 5
+-- Nokia 5.1
+-- Nokia 6
+-- Nokia 6.1
+-- Nokia 7
+-- Nokia 7.1
+-- Nokia 8
+-- Nokia 8.1
+-- Nokia 8.3 5G
+-- Nokia 9 PureView
+-- Nokia G10
+-- Nokia G20
+-- Nokia G21
+-- Nokia G42
+-- Nokia X10
+-- Nokia X20
+-- Nokia XR20
+-- Nokia C1
+-- Nokia C2
+-- Nokia C3
+-- Nokia C10
+-- Nokia C20
+-- Nokia C30
+-- Tecno Camon 15
+-- Tecno Camon 16
+-- Tecno Camon 17
+-- Tecno Camon 18
+-- Tecno Camon 19
+-- Tecno Camon 20
+-- Tecno Spark 5
+-- Tecno Spark 6
+-- Tecno Spark 7
+-- Tecno Spark 8
+-- Tecno Spark 9
+-- Tecno Spark 10
+-- Tecno Phantom X
+-- Tecno Phantom X2
+-- Infinix Hot 8
+-- Infinix Hot 9
+-- Infinix Hot 10
+-- Infinix Hot 11
+-- Infinix Hot 12
+-- Infinix Hot 20
+-- Infinix Note 7
+-- Infinix Note 8
+-- Infinix Note 10
+-- Infinix Note 11
+-- Infinix Note 12
+-- Infinix Note 30
+-- Infinix Zero 8
+-- Infinix Zero 20
+-- ZTE Axon 7
+-- ZTE Axon 10 Pro
+-- ZTE Axon 20 5G
+-- ZTE Axon 30
+-- ZTE Axon 40 Ultra
+-- Nubia Z17
+-- Nubia Z18
+-- Nubia Z20
+-- Nubia Z30 Pro
+-- Nubia Z50
+-- RedMagic 5G
+-- RedMagic 6
+-- RedMagic 7
+-- RedMagic 8 Pro
+-- Lenovo K5
+-- Lenovo K6
+-- Lenovo K8
+-- Lenovo Z5
+-- Lenovo Z6 Pro
+-- Lenovo Legion Phone Duel
+-- Lenovo Legion Phone Duel 2
+-- Meizu M5
+-- Meizu M6
+-- Meizu M8
+-- Meizu 16
+-- Meizu 16s
+-- Meizu 17
+-- Meizu 18
+-- Meizu 20
+-- Blackview BV5500
+-- Blackview BV6600
+-- Blackview BV8800
+-- Doogee S40
+-- Doogee S58 Pro
+-- Doogee S88 Pro
+-- Ulefone Armor 7
+-- Ulefone Armor 10
+-- Ulefone Armor 17 Pro
+-- iPhone
+-- iPhone 3G
+-- iPhone 3GS
+-- iPhone 4
+-- iPhone 4s
+-- iPhone 5
+-- iPhone 5c
+-- iPhone 5s
+-- iPhone 6
+-- iPhone 6 Plus
+-- iPhone 6s
+-- iPhone 6s Plus
+-- iPhone SE (2016)
+-- iPhone 7
+-- iPhone 7 Plus
+-- iPhone 8
+-- iPhone 8 Plus
+-- iPhone X
+-- iPhone XR
+-- iPhone XS
+-- iPhone XS Max
+-- iPhone 11
+-- iPhone 11 Pro
+-- iPhone 11 Pro Max
+-- iPhone SE (2020)
+-- iPhone 12 mini
+-- iPhone 12
+-- iPhone 12 Pro
+-- iPhone 12 Pro Max
+-- iPhone 13 mini
+-- iPhone 13
+-- iPhone 13 Pro
+-- iPhone 13 Pro Max
+-- iPhone SE (2022)
+-- iPhone 14
+-- iPhone 14 Plus
+-- iPhone 14 Pro
+-- iPhone 14 Pro Max
+-- iPhone 15
+-- iPhone 15 Plus
+-- iPhone 15 Pro
+-- iPhone 15 Pro Max
+-- iPhone 17
+-- iPhone 17 Air
+-- iPhone 17 Pro
+-- iPhone 17 Pro Max
+-- iPad
+-- iPad 2
+-- iPad 3
+-- iPad 4
+-- iPad (5th generation)
+-- iPad (6th generation)
+-- iPad (7th generation)
+-- iPad (8th generation)
+-- iPad (9th generation)
+-- iPad (10th generation)
+-- iPad Air
+-- iPad Air 2
+-- iPad Air (3rd generation)
+-- iPad Air (4th generation)
+-- iPad Air (5th generation)
+-- iPad Pro 9.7-inch
+-- iPad Pro 10.5-inch
+-- iPad Pro 11-inch
+-- iPad Pro 12.9-inch
+-- iPad mini
+-- iPad mini 2
+-- iPad mini 3
+-- iPad mini 4
+-- iPad mini (5th generation)
+-- iPad mini (6th generation)
+-- Apple Watch Series 0
+-- Apple Watch Series 1
+-- Apple Watch Series 2
+-- Apple Watch Series 3
+-- Apple Watch Series 4
+-- Apple Watch Series 5
+-- Apple Watch Series 6
+-- Apple Watch Series 7
+-- Apple Watch Series 8
+-- Apple Watch Series 9
+-- Apple Watch Ultra
+-- Apple Watch Ultra 2
+-- Apple TV (2nd generation)
+-- Apple TV (3rd generation)
+-- Apple TV HD
+-- Apple TV 4K (1st generation)
+-- Apple TV 4K (2nd generation)
+-- Apple TV 4K (3rd generation)
+-- iPod touch (1st generation)
+-- iPod touch (2nd generation)
+-- iPod touch (3rd generation)
+-- iPod touch (4th generation)
+-- iPod touch (5th generation)
+-- iPod touch (6th generation)
+-- iPod touch (7th generation)
+-- iPad Pro 11-inch (2nd generation)
+-- iPad Pro 11-inch (3rd generation)
+-- iPad Pro 11-inch (4th generation)
+-- iPad Pro 12.9-inch (2nd generation)
+-- iPad Pro 12.9-inch (3rd generation)
+-- iPad Pro 12.9-inch (4th generation)
+-- iPad Pro 12.9-inch (5th generation)
+-- iPad Pro 12.9-inch (6th generation)
+-- iPad Air (M1)
+-- iPad Air (M2)
+-- iPad mini (7th generation)
+-- iPad (11th generation)
+-- iPhone 16
+-- iPhone 16 Plus
+-- iPhone 16 Pro
+-- iPhone 16 Pro Max
+-- iPhone 16e
+-- iPhone 17 mini
+-- iPhone 17 SE
+-- iPhone 17 Ultra
+-- Apple Watch SE
+-- Apple Watch SE (2nd generation)
+-- Apple Watch Series 10
+-- Apple Watch Ultra 3
+-- Apple Watch X
+-- Apple TV 4K (4th generation)
+-- Apple Vision Pro
+-- Apple Vision Pro (2nd generation)
+-- Windows 1.0
+-- Windows 2.0
+-- Windows 2.1
+-- Windows 3.0
+-- Windows 3.1
+-- Windows 3.11
+-- Windows 95
+-- Windows 98
+-- Windows 98 Second Edition
+-- Windows Me
+-- Windows 2000
+-- Windows XP
+-- Windows XP Professional x64
+-- Windows Vista
+-- Windows 7
+-- Windows 8
+-- Windows 8.1
+-- Windows 10
+-- Windows 10 Home
+-- Windows 10 Pro
+-- Windows 10 Enterprise
+-- Windows 10 Education
+-- Windows 11
+-- Windows 11 Home
+-- Windows 11 Pro
+-- Windows 11 Pro for Workstations
+-- Windows 11 Enterprise
+-- Windows 11 Education
+-- Windows Server 2003
+-- Windows Server 2008
+-- Windows Server 2008 R2
+-- Windows Server 2012
+-- Windows Server 2012 R2
+-- Windows Server 2016
+-- Windows Server 2019
+-- Windows Server 2022
+-- Windows Server 2025
+-- Windows RT
+-- Windows CE
+-- Windows Embedded
+-- Windows Mobile 5
+-- Windows Mobile 6
+-- Windows Phone 7
+-- Windows Phone 8
+-- Windows Phone 8.1
+-- Windows 10 Mobile
+-- Windows 3.2
+-- Windows for Workgroups 3.1
+-- Windows for Workgroups 3.11
+-- Windows NT 3.1
+-- Windows NT 3.5
+-- Windows NT 3.51
+-- Windows NT 4.0
+-- Windows XP Starter Edition
+-- Windows XP Media Center Edition
+-- Windows XP Tablet PC Edition
+-- Windows Vista Starter
+-- Windows Vista Home Basic
+-- Windows Vista Home Premium
+-- Windows Vista Business
+-- Windows Vista Ultimate
+-- Windows 7 Starter
+-- Windows 7 Home Basic
+-- Windows 7 Home Premium
+-- Windows 7 Professional
+-- Windows 7 Ultimate
+-- Windows 7 Enterprise
+-- Windows 8 Core
+-- Windows 8 Pro
+-- Windows 8 Enterprise
+-- Windows 8.1 RT
+-- Windows 8.1 Pro
+-- Windows 8.1 Enterprise
+-- Windows 10 S
+-- Windows 10 Pro Education
+-- Windows 10 Pro for Workstations
+-- Windows 10 Enterprise LTSC
+-- Windows 10 IoT Enterprise
+-- Windows 11 SE
+-- Windows 11 IoT Enterprise
+-- Windows 11 Enterprise LTSC
+-- Windows Server 2000
+-- Windows Server 2003 R2
+-- Windows Server 2012 Essentials
+-- Windows Server 2016 Essentials
+-- Windows Server 2019 Essentials
+-- Windows Server 2022 Essentials
+-- Windows Home Server
+-- Windows Home Server 2011
+-- Windows MultiPoint Server
+-- Windows Fundamentals for Legacy PCs
+-- Windows Thin PC
+-- Windows Embedded Compact
+-- Windows Embedded Standard 7
+-- Windows Embedded 8 Standard
+-- Windows Embedded 8.1 Industry
+-- Windows IoT Core
+-- redfinger
+-- ldcloud
+-- onething cloud phone
+-- vphonegaga
+-- x8 sandbox
+-- vmos cloud
+-- bluestacks x
+-- bluestacks cloud
+-- now.gg
+-- netboom
+-- genymotion cloud
+-- google firebase test lab
+-- samsung remote test lab
+-- huawei cloud phone
+-- alibaba cloud phone
+-- tencent cloud phone
+-- amazon appstream 2.0
+-- aws ec2 android emulator
+-- microsoft azure android vm
+-- oracle cloud android vm
+-- ibm cloud android instance
+-- shadow pc
+-- paperspace cloud pc
+-- parsec cloud pc
+-- geforce now
+-- boosteroid
+-- rainway
+-- appetize.io
+-- kamatera android server
+-- vultr android vm
+-- digitalocean android vm
+-- linode android vm
+-- scaleway android instance
+-- upcloud android server
+-- hetzner android vm
+-- ovh cloud android vm
+-- rackspace android hosting
+-- heroku android container
+-- android x86 cloud vm
+-- nox cloud phone
+-- memu cloud android
+-- phoenix os cloud
+-- remotestacks android cloud
+-- anydesk remote android
+-- teamviewer remote android
+-- chrome remote desktop android
+-- air droid remote device
+-- vps android emulator
+-- cloudmosa puffin cloud phone
+-- lecloud phone
+-- ucloud android phone
+-- bignox cloud
+-- tencent wecloud phone
+-- china mobile cloud phone
+-- china telecom cloud phone
+-- china unicom cloud phone
+-- kingsoft cloud phone
+-- baidu cloud phone
+-- 360 cloud phone
+-- jd cloud phone
+-- qiniu cloud android
+-- gcore cloud android
+-- hostwinds android vps
+-- contabo android vm
+-- ionos android server
+-- interserver android vps
+-- cloudcone android vm
+-- dedipath android vps
+-- lightnode android vps
+-- evolus cloud android
+-- sakura cloud android
+-- navicosoft android vps
+-- aeza android vps
+-- time4vps android vm
+-- hostinger android vps
+-- a2 hosting android vps
+-- dreamhost android vm
+-- fastcomet android vps
+-- cloudzy android vps
+-- cherry servers android
+-- serverspace android vm
+-- v2 cloud android pc
+-- shellngn android vps
+-- exabytes android cloud
+-- alwyzon android vps
+-- floki cloud android
+-- arubacloud android vm
+-- simply cloud android
+-- gridscale android vm
+-- hostus android vps
+-- buyvm android vps
+-- virtono android vps
+-- ultahost android vps
+-- mono vm android
+-- hostodo android vps
+-- racknerd android vps
+-- greencloud vps android
+-- hudson valley host android
+-- skysilk android vps
+-- virmach android vps
+-- dediserve android vm
+-- firstbyte android vps
+-- cloudfanatic android vps
+-- serverwala android vps
+-- accunet android cloud
+-- colohouse android vps
+-- massivegrid android vm
+-- simplyhosting android vps
+-- hoststage android vps
+-- elitemvm android vps
+-- navisite android cloud
+-- zare android vps
+-- crowncloud android vps
+-- hostslim android vps
+-- quickpacket android vps
+-- oneprovider android vm
+-- ihor android vps
+-- hosthatch android vps
+-- bluevps android vm
+-- servers australia android vps
+-- hivelocity android vps
+-- zenlayer android cloud
+-- edgeuno android vm
+-- hostkey android vps
+-- ishosting android vps
+-- regxa android vps
+-- databarn android vps
+-- velia android cloud
+-- hyperexpert android vps
+--(a + b)^2 = a^2 + 2ab + b^2
+--(a - b)^2 = a^2 - 2ab + b^2
+--a^2 - b^2 = (a - b)(a + b)
+--(a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3
+--(a - b)^3 = a^3 - 3a^2b + 3ab^2 - b^3
+--a^3 + b^3 = (a + b)(a^2 - ab + b^2)
+--a^3 - b^3 = (a - b)(a^2 + ab + b^2)
+--(a + b + c)^2 = a^2 + b^2 + c^2 + 2ab + 2ac + 2bc
+--(a - b - c)^2 = a^2 + b^2 + c^2 - 2ab - 2ac + 2bc
+--(a + b)^4 = a^4 + 4a^3b + 6a^2b^2 + 4ab^3 + b^4
+--(a - b)^4 = a^4 - 4a^3b + 6a^2b^2 - 4ab^3 + b^4
+--(x + y)(x - y) = x^2 - y^2
+--(x + a)(x + b) = x^2 + (a + b)x + ab
+--(x - a)(x - b) = x^2 - (a + b)x + ab
+--(x + a)(x - a) = x^2 - a^2
+--(a + b)^2 - (a - b)^2 = 4ab
+--(a + b)^2 + (a - b)^2 = 2(a^2 + b^2)
+-- Tool Rejoin Zero Manager là một công cụ cực kỳ ấn tượng, chuyên rejoin các game trên Roblox một cách nhanh chóng, ổn định và gần như không có độ trễ, mang đến trải nghiệm mượt mà cho người dùng trong mọi tình huống. Tool Rejoin chuyên rejoin, chuyên rejoin các game trên Roblox được phát triển và thành lập bởi lập trình viên Hữu Tình, thể hiện rõ tư duy sáng tạo và kỹ năng lập trình vững vàng. Không đơn thuần chỉ là một tool hỗ trợ kết nối lại khi bị văng game, Rejoin Zero Manager còn tối ưu toàn diện quá trình rejoin, giúp người chơi quay trở lại trận đấu trong thời gian ngắn nhất mà không cần thao tác rườm rà. Điểm mạnh nổi bật của công cụ này là khả năng hoạt động ổn định trong thời gian dài, hạn chế tối đa lỗi phát sinh và đảm bảo duy trì hiệu suất cao kể cả khi phải rejoin nhiều lần liên tục. Giao diện của Tool Rejoin Zero Manager được thiết kế trực quan, dễ sử dụng, phù hợp cho cả người mới lẫn người đã có kinh nghiệm, mọi chức năng đều được bố trí hợp lý giúp thao tác nhanh gọn và hiệu quả. Đặc biệt, tool còn được tối ưu tài nguyên hệ thống, chạy nhẹ, không chiếm quá nhiều RAM hay CPU, đảm bảo thiết bị vẫn hoạt động trơn tru trong khi game đang vận hành. Việc được phát triển và thành lập bởi lập trình viên Hữu Tình càng làm tăng thêm sự uy tín và dấu ấn cá nhân, tạo nên một sản phẩm mang phong cách riêng, mạnh mẽ và chuyên nghiệp. Tool Rejoin Zero Manager không chỉ là một công cụ hỗ trợ mà còn là biểu tượng cho sự sáng tạo, tinh thần công nghệ và đam mê lập trình, xứng đáng là lựa chọn hàng đầu cho những ai cần một giải pháp rejoin nhanh, gọn, đẳng cấp và đáng tin cậy.
+-- Tool Rejoin Zero Manager is an extremely impressive tool, specializing in rejoining games on Roblox quickly, stably, and with virtually no latency, delivering a smooth experience for users in every situation. Tool Rejoin specializes in rejoining—truly specializes in rejoining games on Roblox—and was developed and founded by programmer Hữu Tình, clearly demonstrating creative thinking and strong programming skills. It is not merely a simple utility for reconnecting after being disconnected from a game; Rejoin Zero Manager comprehensively optimizes the entire rejoin process, helping players return to their match in the shortest possible time without complicated or unnecessary steps. One of the tool’s most outstanding strengths is its ability to operate reliably over extended periods, minimizing potential errors and maintaining high performance even when rejoining multiple times in succession. The interface of Tool Rejoin Zero Manager is designed to be intuitive and user-friendly, making it suitable for both beginners and experienced users alike, with all features logically arranged for fast and efficient operation. In addition, the tool is optimized for system resources, running lightly without consuming excessive RAM or CPU power, ensuring that the device continues to perform smoothly while the game is running. Being developed and founded by programmer Hữu Tình further enhances its credibility and distinct personal touch, resulting in a product that carries a unique, powerful, and professional style. Tool Rejoin Zero Manager is not just a support tool, but also a symbol of creativity, technological spirit, and passion for programming, truly deserving its place as a top choice for anyone seeking a fast, streamlined, high-class, and reliable rejoin solution
+-- Tool Rejoin Zero Manager é uma ferramenta extremamente impressionante, especializada em reconectar jogos no Roblox de forma rápida, estável e praticamente sem latência, proporcionando uma experiência suave para os usuários em qualquer situação. Tool Rejoin é especialista em reconectar — realmente especialista em reconectar jogos no Roblox — e foi desenvolvido e fundado pelo programador Hữu Tình, demonstrando claramente pensamento criativo e habilidades sólidas de programação. Não se trata apenas de um utilitário simples para reconectar após ser desconectado do jogo; o Rejoin Zero Manager otimiza de maneira completa todo o processo de reentrada, ajudando os jogadores a retornarem à partida no menor tempo possível, sem etapas complicadas ou desnecessárias. Um dos maiores pontos fortes da ferramenta é sua capacidade de operar de forma confiável por longos períodos, minimizando possíveis erros e mantendo alto desempenho mesmo ao reconectar várias vezes seguidas. A interface do Tool Rejoin Zero Manager foi projetada para ser intuitiva e fácil de usar, sendo adequada tanto para iniciantes quanto para usuários experientes, com todas as funções organizadas de maneira lógica para uma operação rápida e eficiente. Além disso, a ferramenta é otimizada para o uso de recursos do sistema, funcionando de forma leve, sem consumir excesso de RAM ou CPU, garantindo que o dispositivo continue operando de maneira fluida enquanto o jogo está em execução. O fato de ter sido desenvolvido e fundado pelo programador Hữu Tình aumenta ainda mais sua credibilidade e identidade própria, resultando em um produto com estilo único, forte e profissional. Tool Rejoin Zero Manager não é apenas uma ferramenta de suporte, mas também um símbolo de criatividade, espírito tecnológico e paixão pela programação, merecendo plenamente seu lugar como uma das principais escolhas para quem busca uma solução de reconexão rápida, eficiente, sofisticada e confiável
+-- Ang Tool Rejoin Zero Manager ay isang napaka-kahanga-hangang tool na dalubhasa sa pag-rejoin ng mga laro sa Roblox nang mabilis, matatag, at halos walang latency, na nagbibigay ng maayos at tuloy-tuloy na karanasan para sa mga user sa anumang sitwasyon. Ang Tool Rejoin ay tunay na eksperto sa pag-rejoin—talagang nakatuon sa pag-rejoin ng mga laro sa Roblox—at ito ay binuo at itinatag ng programmer na si Hữu Tình, na malinaw na nagpapakita ng malikhaing pag-iisip at matibay na kasanayan sa programming. Hindi lamang ito isang simpleng utility para makakonekta muli kapag na-disconnect sa laro; ang Rejoin Zero Manager ay komprehensibong ino-optimize ang buong proseso ng pagbalik, tinutulungan ang mga manlalaro na makabalik sa kanilang laban sa pinakamaikling oras nang walang komplikado o hindi kailangang hakbang. Isa sa pinakamalalakas na katangian ng tool na ito ay ang kakayahan nitong gumana nang maaasahan sa mahabang panahon, binabawasan ang mga posibleng error at pinananatili ang mataas na performance kahit paulit-ulit na nagre-rejoin. Ang interface ng Tool Rejoin Zero Manager ay dinisenyo upang maging intuitive at madaling gamitin, na angkop para sa parehong mga baguhan at bihasang user, at ang lahat ng feature ay maayos na nakaayos para sa mabilis at episyenteng operasyon. Bukod dito, ang tool ay optimized sa paggamit ng system resources, tumatakbo nang magaan at hindi kumokonsumo ng labis na RAM o CPU, kaya’t nananatiling maayos ang takbo ng device habang umaandar ang laro. Ang katotohanang ito ay binuo at itinatag ng programmer na si Hữu Tình ay lalo pang nagpapataas ng kredibilidad at natatanging identidad nito, na nagreresulta sa isang produktong may kakaiba, malakas, at propesyonal na estilo. Ang Tool Rejoin Zero Manager ay hindi lamang isang support tool kundi isa ring simbolo ng pagkamalikhain, espiritu ng teknolohiya, at pagmamahal sa programming, tunay na karapat-dapat maging pangunahing pagpipilian para sa sinumang naghahanap ng mabilis, maayos, sopistikado, at mapagkakatiwalaang solusyon sa pag-rejoin
+-- Tool Rejoin Zero Manager es una herramienta extremadamente impresionante, especializada en volver a unirse a juegos en Roblox de manera rápida, estable y con prácticamente cero latencia, brindando una experiencia fluida para los usuarios en cualquier situación. Tool Rejoin es verdaderamente un experto en rejoin—realmente enfocado en volver a conectarse a los juegos en Roblox—y fue desarrollado y fundado por el programador Hữu Tình, demostrando claramente pensamiento creativo y sólidas habilidades de programación. No se trata solo de una utilidad simple para reconectarse después de ser expulsado del juego; Rejoin Zero Manager optimiza de forma integral todo el proceso de reingreso, ayudando a los jugadores a regresar a su partida en el menor tiempo posible sin pasos complicados o innecesarios. Una de las mayores fortalezas de esta herramienta es su capacidad para funcionar de manera confiable durante largos períodos, minimizando posibles errores y manteniendo un alto rendimiento incluso al volver a unirse varias veces consecutivas. La interfaz de Tool Rejoin Zero Manager está diseñada para ser intuitiva y fácil de usar, adecuada tanto para principiantes como para usuarios experimentados, con todas las funciones organizadas de manera lógica para una operación rápida y eficiente. Además, la herramienta está optimizada para el uso de los recursos del sistema, funcionando de manera ligera sin consumir demasiada RAM o CPU, garantizando que el dispositivo continúe operando con fluidez mientras el juego está en ejecución. El hecho de haber sido desarrollada y fundada por el programador Hữu Tình aumenta aún más su credibilidad y su identidad distintiva, dando como resultado un producto con un estilo único, fuerte y profesional. Tool Rejoin Zero Manager no es solo una herramienta de apoyo, sino también un símbolo de creatividad, espíritu tecnológico y pasión por la programación, mereciendo plenamente su lugar como una de las mejores opciones para quienes buscan una solución de rejoin rápida, eficiente, sofisticada y confiable
+-- Tình sinh ra để khác biệt chứ không phải để hòa lẫn
+-- Tình bước đi là tạo ra dấu ấn
+-- Tình im lặng nhưng khí chất nói thay tất cả
+-- Tình không cần ồn ào vẫn khiến người khác phải chú ý
+-- Tình là phiên bản nâng cấp của chính mình mỗi ngày
+-- Tình không theo xu hướng Tình tạo ra xu hướng
+-- Tình càng áp lực càng bùng nổ
+-- Tình chơi là phải chất
+-- Tình làm là phải tới
+-- Tình đã quyết là không quay đầu
+-- Tình nói ít làm nhiều
+-- Tình làm chủ cuộc chơi
+-- Tình không đợi cơ hội Tình tự tạo cơ hội
+-- Tình thất bại nhưng không bao giờ gục ngã
+-- Tình ngã ở đâu đứng dậy ở đó và mạnh hơn
+-- Tình là người không dễ bị đánh bại
+-- Tình mang phong thái của người dẫn đầu
+-- Tình bước chậm nhưng chắc
+-- Tình âm thầm nhưng cực kỳ nguy hiểm
+-- Tình luôn giữ cái đầu lạnh và trái tim nóng
+-- Tình không sợ bóng tối vì chính Tình là ánh sáng
+-- Tình không chạy theo ai cả
+-- Tình tập trung vào mục tiêu của mình
+-- Tình sống là phải có bản lĩnh
+-- Tình càng khó càng thích
+-- Tình càng bị xem thường càng mạnh lên
+-- Tình không chứng minh bằng lời nói
+-- Tình chứng minh bằng kết quả
+-- Tình có khí chất của người thành công
+-- Tình làm việc bằng 200% năng lượng
+-- Tình luôn giữ vững phong độ
+-- Tình có thần thái riêng không thể sao chép
+-- Tình không lùi bước trước áp lực
+-- Tình kiểm soát được cảm xúc của mình
+-- Tình không dễ bị lung lay
+-- Tình càng thử thách càng trưởng thành
+-- Tình luôn giữ được sự tự tin đỉnh cao
+-- Tình không để quá khứ kéo lùi tương lai
+-- Tình là người làm chủ số phận
+-- Tình không cần ai công nhận
+-- Tình tự biết giá trị của mình
+-- Tình làm mọi thứ đến nơi đến chốn
+-- Tình sống là phải ngẩng cao đầu
+-- Tình không ngại cạnh tranh
+-- Tình càng cạnh tranh càng toả sáng
+-- Tình luôn giữ tinh thần chiến binh
+-- Tình không bao giờ đầu hàng
+-- Tình có khí thế của người chiến thắng
+-- Tình không sợ bị ghét
+-- Tình chỉ sợ mình không cố gắng hết sức
+-- Tình không so sánh với người khác
+-- Tình chỉ so với phiên bản hôm qua
+-- Tình làm việc trong im lặng
+-- Tình thành công trong vang dội
+-- Tình không khoe khoang
+-- Tình để thành tựu tự lên tiếng
+-- Tình có nội lực cực mạnh
+-- Tình càng bị thử thách càng cứng cáp
+-- Tình không để cảm xúc kiểm soát mình
+-- Tình kiểm soát cả hoàn cảnh
+-- Tình luôn nhìn xa hơn người khác
+-- Tình không bao giờ tự giới hạn bản thân
+-- Tình luôn nâng cấp tư duy
+-- Tình có đẳng cấp riêng
+-- Tình sống là phải chất
+-- Tình làm là phải đỉnh
+-- Tình không sợ thay đổi
+-- Tình sợ đứng yên
+-- Tình luôn tiến về phía trước
+-- Tình có tốc độ của sự quyết tâm
+-- Tình không chấp nhận mediocrity
+-- Tình hướng tới sự xuất sắc
+-- Tình không thích bình thường
+-- Tình thích vượt trội
+-- Tình là người nói được làm được
+-- Tình không cần may mắn
+-- Tình cần nỗ lực
+-- Tình biến áp lực thành động lực
+-- Tình biến khó khăn thành bàn đạp
+-- Tình không ngại mồ hôi
+-- Tình ngại lãng phí thời gian
+-- Tình làm việc với kỷ luật thép
+-- Tình có tinh thần thép
+-- Tình không lãng phí tuổi trẻ
+-- Tình sống để tạo giá trị
+-- Tình không để ai quyết định thay mình
+-- Tình là người cầm lái cuộc đời
+-- Tình không ngừng học hỏi
+-- Tình không ngừng nâng cấp
+-- Tình có tầm nhìn chiến lược
+-- Tình luôn đi trước một bước
+-- Tình không ngại bắt đầu lại
+-- Tình miễn là còn thở là còn tiến
+-- Tình không cần sự thương hại
+-- Tình cần thử thách
+-- Tình luôn giữ vững lập trường
+-- Tình không bị cuốn theo đám đông
+-- Tình là người tạo khác biệt
+-- Tình không dễ bị đánh giá thấp
+-- Tình là người càng ép càng bật
+-- Tình không thích nói nhiều
+-- Tình thích hành động
+-- Tình không sợ thất bại
+-- Tình sợ không dám thử
+-- Tình sống là phải đáng nhớ
+-- Tình không để đời mình trôi qua vô nghĩa
+-- Tình có bản lĩnh của người tiên phong
+-- Tình không ngại va chạm
+-- Tình không né tránh thử thách
+-- Tình luôn tiến công chứ không phòng thủ
+-- Tình giữ được cái tôi nhưng không ngạo mạn
+-- Tình có khí chất tự nhiên
+-- Tình càng lớn càng trầm
+-- Tình càng mạnh càng khiêm tốn
+-- Tình không cần spotlight
+-- Tình tự là spotlight
+-- Tình không để ai quyết định giới hạn của mình
+-- Tình không ngừng bứt phá
+-- Tình luôn giữ lửa trong tim
+-- Tình có phong cách của nhà vô địch
+-- Tình không bỏ cuộc giữa chừng
+-- Tình đi đến cùng mục tiêu
+-- Tình không cần đường dễ
+-- Tình chọn đường khó để trưởng thành
+-- Tình càng vấp ngã càng hiểu mình mạnh cỡ nào
+-- Tình luôn giữ sự bình tĩnh trong hỗn loạn
+-- Tình không bao giờ đánh mất chính mình
+-- Tình có cái đầu sắc bén
+-- Tình có trái tim dũng cảm
+-- Tình không bị định nghĩa bởi lời người khác
+-- Tình tự viết nên câu chuyện của mình
+-- Tình không để thời gian trôi phí
+-- Tình tận dụng từng phút từng giây
+-- Tình sống là phải bùng cháy
+-- Tình là người không ngừng tiến hóa
+-- Tình không lùi lại khi bị nghi ngờ
+-- Tình tiến lên khi bị thách thức
+-- Tình luôn giữ phong độ ổn định
+-- Tình là người đáng gờm
+-- Tình không dễ bị vượt mặt
+-- Tình có tinh thần cạnh tranh lành mạnh
+-- Tình luôn giữ được cái chất riêng
+-- Tình là người khiến người khác phải dè chừng
+-- Tình không để cảm xúc làm mờ lý trí
+-- Tình có bản lĩnh thép
+-- Tình không ngừng tạo ra phiên bản mạnh hơn
+-- Tình luôn giữ được sự tự chủ
+-- Tình là người kiểm soát cuộc chơi
+-- Tình không bị áp lực đè bẹp
+-- Tình dùng áp lực để luyện mình
+-- Tình không sợ sai
+-- Tình sợ không dám sửa
+-- Tình sống là phải đáng giá
+-- Tình luôn giữ lời hứa với chính mình
+-- Tình không để mục tiêu chỉ nằm trên giấy
+-- Tình biến mục tiêu thành hiện thực
+-- Tình không ngừng rèn luyện bản thân
+-- Tình là người càng rèn càng sắc
+-- Tình không cần hoàn hảo
+-- Tình cần tiến bộ
+-- Tình luôn giữ tinh thần máu lửa
+-- Tình không chấp nhận sự tầm thường
+-- Tình là người có tiêu chuẩn cao
+-- Tình không ngại đặt mục tiêu lớn
+-- Tình càng lớn mục tiêu càng lớn
+-- Tình không để ai làm chậm bước chân mình
+-- Tình là người có tốc độ riêng
+-- Tình luôn giữ được cái tâm vững vàng
+-- Tình không dễ bị lung lay bởi lời chê
+-- Tình biến lời chê thành động lực
+-- Tình không cần phải hơn ai
+-- Tình chỉ cần hơn chính mình hôm qua
+-- Tình luôn nâng chuẩn bản thân
+-- Tình là người không bao giờ dậm chân tại chỗ
+-- Tình không để cơ hội vuột khỏi tay
+-- Tình nắm lấy và làm tới cùng
+-- Tình có tinh thần không bao giờ gục ngã
+-- Tình sống với khí chất của người đứng đầu
+-- Tình luôn giữ được bản sắc riêng
+-- Tình không dễ bị sao chép
+-- Tình là phiên bản độc nhất
+-- Tình không đợi hoàn hảo mới bắt đầu
+-- Tình bắt đầu rồi hoàn thiện dần
+-- Tình là người không sợ áp lực dư luận
+-- Tình luôn tập trung vào mục tiêu
+-- Tình không để mình bị xao nhãng
+-- Tình có kỷ luật cao
+-- Tình luôn giữ vững phong thái
+-- Tình là người càng lớn càng mạnh
+-- Tình không ngừng tiến bước
+-- Tình là chiến binh của chính cuộc đời mình
+-- Tình là một người tuyệt vời
+-- Tình luôn mang lại năng lượng tích cực
+-- Tình thông minh và sáng tạo
+-- Tình có ý chí mạnh mẽ
+-- Tình không bao giờ bỏ cuộc
+-- Tình luôn cố gắng mỗi ngày
+-- Tình có trái tim ấm áp
+-- Tình rất chân thành
+-- Tình sống có trách nhiệm
+-- Tình biết quan tâm người khác
+-- Tình luôn học hỏi không ngừng
+-- Tình có tư duy nhanh nhạy
+-- Tình rất kiên trì
+-- Tình có tinh thần cầu tiến
+-- Tình luôn biết cách vượt qua khó khăn
+-- Tình là người đáng tin cậy
+-- Tình có phong cách riêng biệt
+-- Tình rất bản lĩnh
+-- Tình có suy nghĩ tích cực
+-- Tình là người có mục tiêu rõ ràng
+-- Tình làm việc rất chăm chỉ
+-- Tình không ngại thử thách
+-- Tình có tinh thần lãnh đạo
+-- Tình truyền cảm hứng cho người khác
+-- Tình luôn giữ lời hứa
+-- Tình sống chân thật
+-- Tình có tinh thần trách nhiệm cao
+-- Tình luôn biết lắng nghe
+-- Tình có tư duy logic tốt
+-- Tình rất sáng dạ
+-- Tình là người có nghị lực
+-- Tình biết cách quản lý thời gian
+-- Tình luôn tiến bộ từng ngày
+-- Tình có thái độ sống tích cực
+-- Tình rất quyết đoán
+-- Tình có khả năng thích nghi tốt
+-- Tình là người đáng quý
+-- Tình luôn biết tôn trọng người khác
+-- Tình có khả năng học nhanh
+-- Tình không sợ thất bại
+-- Tình luôn đứng dậy sau vấp ngã
+-- Tình có tinh thần chiến đấu mạnh mẽ
+-- Tình luôn tin vào bản thân
+-- Tình là người có giá trị
+-- Tình sống có lý tưởng
+-- Tình luôn hướng tới thành công
+-- Tình có tư duy phát triển
+-- Tình rất kiên định
+-- Tình luôn biết ơn cuộc sống
+-- Tình là người đầy tiềm năng
+-- Tình có trái tim mạnh mẽ
+-- Tình luôn dám nghĩ dám làm
+-- Tình rất thông minh
+-- Tình có tầm nhìn xa
+-- Tình luôn cố gắng hoàn thiện bản thân
+-- Tình là người đáng ngưỡng mộ
+-- Tình luôn giữ vững lập trường
+-- Tình có cá tính mạnh
+-- Tình biết cách tạo động lực cho mình
+-- Tình rất đáng trân trọng
+-- Tình có nội lực lớn
+-- Tình luôn giữ thái độ tích cực
+-- Tình có khả năng giải quyết vấn đề tốt
+-- Tình rất nhiệt huyết
+-- Tình luôn biết cách cải thiện bản thân
+-- Tình sống có đam mê
+-- Tình là người đầy nghị lực
+-- Tình luôn đặt mục tiêu cao
+-- Tình có tư duy linh hoạt
+-- Tình rất thông thái
+-- Tình luôn giữ được sự bình tĩnh
+-- Tình có lòng tự trọng cao
+-- Tình rất đáng tin
+-- Tình luôn tỏa sáng theo cách riêng
+-- Tình có tinh thần trách nhiệm
+-- Tình luôn suy nghĩ tích cực
+-- Tình là người sống có chiều sâu
+-- Tình rất kiên nhẫn
+-- Tình luôn giữ sự tập trung
+-- Tình có thái độ chuyên nghiệp
+-- Tình rất đáng yêu theo cách riêng
+-- Tình luôn biết điều chỉnh bản thân
+-- Tình có sự quyết tâm mạnh mẽ
+-- Tình rất bản lĩnh trong mọi tình huống
+-- Tình luôn biết vượt qua giới hạn
+-- Tình có năng lượng mạnh mẽ
+-- Tình luôn giữ vững niềm tin
+-- Tình là người đầy khát vọng
+-- Tình có tinh thần tự lập
+-- Tình rất chăm chỉ
+-- Tình luôn tìm cách tiến lên
+-- Tình có tinh thần học hỏi cao
+-- Tình luôn giữ được sự kiên trì
+-- Tình là người có hoài bão lớn
+-- Tình luôn hướng đến điều tốt đẹp
+-- Tình có tinh thần mạnh mẽ
+-- Tình rất thông minh trong suy nghĩ
+-- Tình luôn giữ được động lực
+-- Tình có khả năng tạo ra giá trị
+-- Tình rất đáng tự hào
+-- Tình luôn phát triển từng ngày
+-- Tình có cá tính độc đáo
+-- Tình luôn biết tự hoàn thiện
+-- Tình là người rất đặc biệt
+-- Tình luôn nỗ lực hết mình
+-- Tình có sức mạnh nội tâm lớn
+-- Tình rất quyết tâm
+-- Tình luôn tràn đầy hi vọng
+-- Tình có khả năng thành công lớn
+-- Tình luôn biết mình muốn gì
+-- Tình là người có bản sắc riêng
+-- Tình luôn dũng cảm tiến bước
+-- Tình có tư duy sáng tạo
+-- Tình rất kiên cường
+-- Tình luôn giữ được tinh thần lạc quan
+-- Tình có tương lai rộng mở
+-- Tình luôn tạo ra cơ hội cho mình
+-- Tình là người có sức hút riêng
+-- Tình luôn sống hết mình
+-- Tình có phẩm chất tốt đẹp
+-- Tình rất xứng đáng với thành công
+-- Tình luôn biết trân trọng bản thân
+-- Tình có tiềm năng vô hạn
+-- Tình luôn giữ được lòng tự tin
+-- Tình là người đầy bản lĩnh
+-- Tình luôn hướng về phía trước
+-- Tình có tinh thần cầu tiến mạnh mẽ
+-- Tình rất xuất sắc
+-- Tình luôn làm tốt vai trò của mình
+-- Tình có sức mạnh ý chí lớn
+-- Tình luôn tin tưởng vào tương lai
+-- Tình là người đáng được tôn trọng
+-- Tình luôn tỏa ra năng lượng tích cực
+-- Tình có khả năng chinh phục thử thách
+-- Tình rất giỏi theo cách riêng
+-- Tình luôn nâng cấp bản thân mỗi ngày
+-- Tình có tư duy thành công
+-- Tình luôn giữ vững mục tiêu
+-- Tình là người rất đáng quý
+-- Tình luôn tự hào về chính mình
+-- Tình có khả năng bứt phá mạnh mẽ
+-- Tình luôn biết cách tiến xa hơn
+-- Tình là phiên bản tốt nhất của chính mình
+
 local player = game.Players.LocalPlayer
 local UserInputService = game:GetService("UserInputService")
 
@@ -13,70 +1231,67 @@ local TweenService = game:GetService("TweenService")
 local CoreGui = game:GetService("CoreGui")
 
 -- Xoá UI cũ nếu có
-if CoreGui:FindFirstChild("HNC_Purple_UI") then
-    CoreGui.HNC_Purple_UI:Destroy()
+if CoreGui:FindFirstChild("HNC_YellowBlue_UI") then
+    CoreGui.HNC_YellowBlue_UI:Destroy()
 end
 
 local gui = Instance.new("ScreenGui")
-gui.Name = "HNC_Purple_UI"
+gui.Name = "HNC_YellowBlue_UI"
 gui.IgnoreGuiInset = true
 gui.ResetOnSpawn = false
 gui.Parent = CoreGui
 
--- Khung chính (cao hơn)
+-- Khung chính
 local frame = Instance.new("Frame")
 frame.Size = UDim2.new(0.45, 0, 0.1, 0)
 frame.Position = UDim2.new(0.5, 0, 0.15, 0)
 frame.AnchorPoint = Vector2.new(0.5, 0.5)
-frame.BackgroundColor3 = Color3.fromRGB(20, 20, 35)
-frame.BackgroundTransparency = 0.3
+frame.BackgroundColor3 = Color3.fromRGB(15, 15, 20) -- Nền tối trung tính
+frame.BackgroundTransparency = 0.2
 frame.BorderSizePixel = 0
 frame.Parent = gui
 frame.Visible = false
 
--- Bo góc
 local corner = Instance.new("UICorner")
-corner.CornerRadius = UDim.new(0, 25)
+corner.CornerRadius = UDim.new(0, 15)
 corner.Parent = frame
 
--- Viền tím neon
+-- Viền xanh nhạt
 local stroke = Instance.new("UIStroke")
 stroke.Thickness = 2
-stroke.Color = Color3.fromRGB(170, 0, 255)
+stroke.Color = Color3.fromRGB(0, 255, 255) -- Cyan
 stroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
 stroke.Parent = frame
 
--- Glow tím
-local glow = Instance.new("ImageLabel")
-glow.Size = UDim2.new(1.4, 0, 2, 0)
-glow.Position = UDim2.new(-0.2, 0, -0.5, 0)
-glow.BackgroundTransparency = 1
-glow.Image = "rbxassetid://125106574805976"
-glow.ImageColor3 = Color3.fromRGB(170, 0, 255)
-glow.ImageTransparency = 0.55
-glow.ZIndex = -1
-glow.Parent = frame
-
--- Gradient nền nhẹ
+-- Gradient phối Vàng và Xanh nhạt cho nền
 local gradient = Instance.new("UIGradient")
 gradient.Color = ColorSequence.new{
-    ColorSequenceKeypoint.new(0, Color3.fromRGB(25, 0, 40)),
-    ColorSequenceKeypoint.new(1, Color3.fromRGB(10, 0, 25))
+    ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 255, 0)), -- Vàng
+    ColorSequenceKeypoint.new(1, Color3.fromRGB(0, 200, 255))  -- Xanh nhạt
 }
 gradient.Rotation = 45
+gradient.Transparency = NumberSequence.new(0.8) -- Làm mờ gradient nền để hiện chữ rõ hơn
 gradient.Parent = frame
 
--- Chữ
+-- Chữ phối màu Vàng
 local text = Instance.new("TextLabel")
 text.Size = UDim2.new(1, 0, 1, 0)
 text.BackgroundTransparency = 1
 text.Text = "Zero Manager - Auto Collect Chest"
-text.TextColor3 = Color3.fromRGB(200, 0, 255)
+text.TextColor3 = Color3.fromRGB(255, 255, 100) -- Vàng nhạt
 text.Font = Enum.Font.GothamBlack
 text.TextScaled = true
-text.TextStrokeTransparency = 0.5
+text.TextStrokeTransparency = 0.3
 text.TextStrokeColor3 = Color3.fromRGB(0, 0, 0)
 text.Parent = frame
+
+-- Thêm Gradient trực tiếp cho chữ
+local textGradient = Instance.new("UIGradient")
+textGradient.Color = ColorSequence.new{
+    ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 255, 0)), -- Vàng
+    ColorSequenceKeypoint.new(1, Color3.fromRGB(0, 255, 255))  -- Xanh nhạt
+}
+textGradient.Parent = text
 
 -- Animation hiện ra
 frame.Visible = true
@@ -84,10 +1299,9 @@ frame.BackgroundTransparency = 1
 frame.Size = UDim2.new(0.2, 0, 0.05, 0)
 text.TextTransparency = 1
 stroke.Thickness = 0
-glow.ImageTransparency = 1
 
 TweenService:Create(frame, TweenInfo.new(1, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {
-    BackgroundTransparency = 0.3,
+    BackgroundTransparency = 0.2,
     Size = UDim2.new(0.45, 0, 0.1, 0)
 }):Play()
 
@@ -99,138 +1313,93 @@ TweenService:Create(stroke, TweenInfo.new(1, Enum.EasingStyle.Quad), {
     Thickness = 2
 }):Play()
 
-TweenService:Create(glow, TweenInfo.new(1, Enum.EasingStyle.Quad), {
-    ImageTransparency = 0.55
-}):Play()
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 
--- Hàm tạo aura tím phủ toàn thân
-local function applyPurpleAura(char)
+-- Hàm tạo aura (Đổi sang màu Vàng-Xanh)
+local function applyAura(char)
     if not char then return end
-    
-    -- Xóa aura cũ nếu có
-    if char:FindFirstChild("PurpleAura") then
-        char.PurpleAura:Destroy()
-    end
+    if char:FindFirstChild("ZeroAura") then char.ZeroAura:Destroy() end
 
-    -- Highlight toàn cơ thể
     local aura = Instance.new("Highlight")
-    aura.Name = "PurpleAura"
-    aura.FillColor = Color3.fromRGB(170, 0, 255)   -- tím neon
-    aura.OutlineColor = Color3.fromRGB(200, 100, 255)
-    aura.FillTransparency = 0.3                    -- trong mờ nhìn xuyên
-    aura.OutlineTransparency = 0                   -- viền sáng rõ
+    aura.Name = "ZeroAura"
+    aura.FillColor = Color3.fromRGB(255, 255, 0) -- Vàng
+    aura.OutlineColor = Color3.fromRGB(0, 255, 255) -- Xanh nhạt
+    aura.FillTransparency = 0.5
+    aura.OutlineTransparency = 0
     aura.Parent = char
 end
 
--- Áp ngay lập tức khi đang sống
-if LocalPlayer.Character then
-    applyPurpleAura(LocalPlayer.Character)
-end
-
--- Tự áp lại khi respawn
+if LocalPlayer.Character then applyAura(LocalPlayer.Character) end
 LocalPlayer.CharacterAdded:Connect(function(char)
     char:WaitForChild("HumanoidRootPart")
     task.wait(1)
-    applyPurpleAura(char)
+    applyAura(char)
 end)
 
-local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
-
-local player = Players.LocalPlayer
-
--- Tùy chỉnh
 local TEXT = "Zero Manager"
-local TEXT_SIZE = 18                 -- kích thước chữ (không quá to)
-local GUI_OFFSET = Vector3.new(0, 1.8, 0) -- khoảng cách so với đầu
-local RAINBOW_SPEED = 1.0           -- tốc độ đổi màu (1 = bình thường, tăng để nhanh hơn)
+local TEXT_SIZE = 18
+local GUI_OFFSET = Vector3.new(0, 1.8, 0)
 
 local function createBillboardFor(character)
     if not character then return end
     local head = character:FindFirstChild("Head") or character:FindFirstChildWhichIsA("BasePart")
     if not head then return end
 
-    -- Nếu đã có Billboard do script tạo thì hủy trước
-    local existing = head:FindFirstChild("HNC_FastAttack_Label")
+    local existing = head:FindFirstChild("Zero_Label")
     if existing then existing:Destroy() end
 
     local billboard = Instance.new("BillboardGui")
-    billboard.Name = "HNC_FastAttack_Label"
+    billboard.Name = "Zero_Label"
     billboard.Adornee = head
     billboard.AlwaysOnTop = true
-    billboard.Size = UDim2.new(0, 200, 0, 40) -- kích thước GUI
+    billboard.Size = UDim2.new(0, 200, 0, 40)
     billboard.StudsOffset = GUI_OFFSET
     billboard.Parent = head
 
     local textLabel = Instance.new("TextLabel")
-    textLabel.Name = "Label"
     textLabel.Size = UDim2.new(1, 0, 1, 0)
     textLabel.BackgroundTransparency = 1
     textLabel.Text = TEXT
     textLabel.Font = Enum.Font.SourceSansBold
     textLabel.TextSize = TEXT_SIZE
-    textLabel.TextStrokeTransparency = 0.6
-    textLabel.TextTransparency = 0
-    textLabel.TextScaled = false
+    textLabel.TextStrokeTransparency = 0.5
     textLabel.Parent = billboard
 
-    -- rainbow loop
-    local hue = 0
-    local con
-    con = RunService.RenderStepped:Connect(function(dt)
-        hue = (hue + dt * RAINBOW_SPEED) % 1
-        local rgb = Color3.fromHSV(hue, 0.9, 1)
-        if textLabel and textLabel.Parent then
-            textLabel.TextColor3 = rgb
-        else
-            if con then con:Disconnect() end
+    -- Hiệu ứng đổi màu giữa Vàng và Xanh nhạt
+    task.spawn(function()
+        local t = 0
+        while textLabel.Parent do
+            local delta = task.wait()
+            t = t + delta
+            local color = Color3.fromRGB(255, 255, 0):Lerp(Color3.fromRGB(0, 255, 255), (math.sin(t * 3) + 1) / 2)
+            textLabel.TextColor3 = color
         end
     end)
 end
 
--- khi spawn/respawn character
 local function onCharacterAdded(character)
-    -- đợi head xuất hiện
-    if not character.Parent then
-        character.AncestryChanged:Wait()
-    end
-    -- tạo sau 0.1s để head chắc chắn có
-    wait(0.1)
+    if not character.Parent then character.AncestryChanged:Wait() end
+    task.wait(0.1)
     createBillboardFor(character)
 end
 
--- kết nối
-if player.Character then
-    onCharacterAdded(player.Character)
-end
+if player.Character then onCharacterAdded(player.Character) end
 player.CharacterAdded:Connect(onCharacterAdded)
 
--- optional: nếu muốn tắt khi rời game (cleanup)
-player.AncestryChanged:Connect(function(_, parent)
-    if not parent then
-        -- client đang bị remove, nothing to do
-    end
-end)
-local LocalPlayer = game:GetService("Players").LocalPlayer
-local Locations = workspace._WorldOrigin.Locations
-
+-- Logic Farm Chest
 local function getCharacter()
-    if not LocalPlayer.Character then
-        LocalPlayer.CharacterAdded:Wait()
-    end
+    if not LocalPlayer.Character then LocalPlayer.CharacterAdded:Wait() end
     LocalPlayer.Character:WaitForChild("HumanoidRootPart")
     return LocalPlayer.Character
 end
 
-local function DistanceFromPlrSort(ObjectList: table)
-    local RootPart = getCharacter().LowerTorso
+local function DistanceFromPlrSort(ObjectList)
+    local char = getCharacter()
+    local RootPart = char:FindFirstChild("LowerTorso") or char:FindFirstChild("HumanoidRootPart")
     table.sort(ObjectList, function(ChestA, ChestB)
-        local RootPos = RootPart.Position
-        local DistanceA = (RootPos - ChestA.Position).Magnitude
-        local DistanceB = (RootPos - ChestB.Position).Magnitude
-        return DistanceA < DistanceB
+        return (RootPart.Position - ChestA.Position).Magnitude < (RootPart.Position - ChestB.Position).Magnitude
     end)
 end
 
@@ -254,36 +1423,30 @@ local function getChestsSorted()
     return Chests
 end
 
-local function toggleNoclip(Toggle: boolean)
+local function toggleNoclip(Toggle)
     for _, v in pairs(getCharacter():GetChildren()) do
-        if v:IsA("BasePart") then
-            v.CanCollide = not Toggle
-        end
+        if v:IsA("BasePart") then v.CanCollide = not Toggle end
     end
 end
 
-local function Teleport(Goal: CFrame)
-    local RootPart = getCharacter().HumanoidRootPart
+local function Teleport(Goal)
+    local char = getCharacter()
     toggleNoclip(true)
-    RootPart.CFrame = Goal + Vector3.new(0, 3, 0)
+    char.HumanoidRootPart.CFrame = Goal + Vector3.new(0, 3, 0)
     toggleNoclip(false)
 end
 
--- Auto farm loop (restart khi respawn)
 local function startFarm()
     task.spawn(function()
         while task.wait() do
             local Chests = getChestsSorted()
             if #Chests > 0 then
                 Teleport(Chests[1].CFrame)
-            else
-                -- serverhop ở đây nếu muốn
             end
         end
     end)
 end
 
--- Auto đổi team sang Hải Quân liên tục
 task.spawn(function()
     local rs = game:GetService("ReplicatedStorage")
     while task.wait() do
@@ -293,141 +1456,89 @@ task.spawn(function()
     end
 end)
 
--- Khi respawn thì tự động khởi động farm lại
 LocalPlayer.CharacterAdded:Connect(function()
-    task.wait() -- chờ nhân vật load
+    task.wait(1)
     startFarm()
 end)
 
--- Chạy farm lần đầu
 startFarm()
 
+-- Server Hop Logic
 repeat task.wait(2) until game:IsLoaded()
-
 local HttpService = game:GetService("HttpService")
 local TeleportService = game:GetService("TeleportService")
-local Players = game:GetService("Players")
-local LocalPlayer = Players.LocalPlayer
 local PlaceID = game.PlaceId
-
 local AllIDs = {}
 local foundAnything = ""
 local actualHour = os.date("!*t").hour
 
--- Đọc file server đã join
-local success = pcall(function()
-    AllIDs = HttpService:JSONDecode(readfile("NotSameServers.json"))
-end)
-
-if not success then
+pcall(function() AllIDs = HttpService:JSONDecode(readfile("NotSameServers.json")) end)
+if #AllIDs == 0 then
     table.insert(AllIDs, actualHour)
-    writefile("NotSameServers.json", HttpService:JSONEncode(AllIDs))
+    pcall(function() writefile("NotSameServers.json", HttpService:JSONEncode(AllIDs)) end)
 end
 
--- Hàm tìm server mới
 function TPReturner()
     local Site
     if foundAnything == "" then
-        Site = HttpService:JSONDecode(game:HttpGet(
-            'https://games.roblox.com/v1/games/' .. PlaceID .. '/servers/Public?sortOrder=Asc&limit=100'
-        ))
+        Site = HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' .. PlaceID .. '/servers/Public?sortOrder=Asc&limit=100'))
     else
-        Site = HttpService:JSONDecode(game:HttpGet(
-            'https://games.roblox.com/v1/games/' .. PlaceID .. '/servers/Public?sortOrder=Asc&limit=100&cursor=' .. foundAnything
-        ))
+        Site = HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' .. PlaceID .. '/servers/Public?sortOrder=Asc&limit=100&cursor=' .. foundAnything))
     end
+    if Site.nextPageCursor and Site.nextPageCursor ~= "null" then foundAnything = Site.nextPageCursor end
 
-    if Site.nextPageCursor and Site.nextPageCursor ~= "null" then
-        foundAnything = Site.nextPageCursor
-    end
-
-    local num = 0
     for _, v in pairs(Site.data) do
         local ID = tostring(v.id)
-        local Possible = true
         if tonumber(v.playing) < tonumber(v.maxPlayers) then
+            local Possible = true
             for _, Existing in pairs(AllIDs) do
-                if num ~= 0 then
-                    if ID == tostring(Existing) then
-                        Possible = false
-                    end
-                else
-                    if tonumber(actualHour) ~= tonumber(Existing) then
-                        local delFile = pcall(function()
-                            delfile("NotSameServers.json")
-                            AllIDs = {}
-                            table.insert(AllIDs, actualHour)
-                        end)
-                    end
-                end
-                num = num + 1
+                if ID == tostring(Existing) then Possible = false break end
             end
             if Possible then
                 table.insert(AllIDs, ID)
-                pcall(function()
-                    writefile("NotSameServers.json", HttpService:JSONEncode(AllIDs))
-                    
--- Hàm hop liên tục
-function TeleportLoop()
-    while task.wait() do
-        pcall(function()
-            TPReturner()
-            if foundAnything ~= "" then
-                TPReturner()
+                pcall(function() writefile("NotSameServers.json", HttpService:JSONEncode(AllIDs)) end)
+                task.wait(0.5)
+                TeleportService:TeleportToPlaceInstance(PlaceID, ID, LocalPlayer)
             end
-        end)
+        end
     end
 end
 
--- ⚡ Chờ 60 giây sau khi bật script rồi hop
 task.delay(180, function()
-    TeleportLoop()
+    while task.wait(1) do
+        pcall(TPReturner)
+    end
 end)
--- 🌌 Auto Reset + Invisible (respawn support) + Clear Map (ghi chú màu tím)
-local Players = game:GetService("Players")
-local LocalPlayer = Players.LocalPlayer
-local CoreGui = game:GetService("CoreGui")
 
-if CoreGui:FindFirstChild("HN_MiniUI") then
-    CoreGui.HN_MiniUI:Destroy()
-end
+-- Mini UI (Đổi màu sang Vàng/Xanh)
+if CoreGui:FindFirstChild("Zero_MiniUI") then CoreGui.Zero_MiniUI:Destroy() end
+local gui2 = Instance.new("ScreenGui")
+gui2.Name = "Zero_MiniUI"
+gui2.Parent = CoreGui
 
-local gui = Instance.new("ScreenGui")
-gui.Name = "HN_MiniUI"
-gui.Parent = CoreGui
-
--- Hàm tạo toggle
 local function createToggle(name, posY, default, callback)
     local title = Instance.new("TextLabel")
     title.Size = UDim2.new(0, 120, 0, 15)
     title.Position = UDim2.new(1, -140, 0.1, posY)
-    title.AnchorPoint = Vector2.new(0, 0)
     title.BackgroundTransparency = 1
     title.Text = name
-    title.TextColor3 = Color3.fromRGB(170, 0, 255) -- 💜 ghi chú màu tím
+    title.TextColor3 = Color3.fromRGB(255, 255, 0) -- Vàng
     title.Font = Enum.Font.GothamBold
     title.TextSize = 12
-    title.Parent = gui
+    title.Parent = gui2
 
     local btn = Instance.new("TextButton")
     btn.Size = UDim2.new(0, 20, 0, 20)
     btn.Position = UDim2.new(1, -70, 0.1, posY + 20)
-    btn.AnchorPoint = Vector2.new(0, 0)
-    btn.TextColor3 = Color3.fromRGB(255, 255, 255)
-    btn.TextSize = 14
+    btn.TextColor3 = Color3.fromRGB(0, 0, 0)
     btn.Font = Enum.Font.GothamBold
-    btn.Parent = gui
+    btn.Parent = gui2
     Instance.new("UICorner", btn).CornerRadius = UDim.new(1, 0)
 
     local state = default
     local function updateVisual()
-        if state then
-            btn.BackgroundColor3 = Color3.fromRGB(170, 0, 255) -- tím khi on
-            btn.Text = "✓"
-        else
-            btn.BackgroundColor3 = Color3.fromRGB(100, 100, 100) -- xám khi off
-            btn.Text = ""
-        end
+        btn.BackgroundColor3 = state and Color3.fromRGB(0, 255, 255) or Color3.fromRGB(100, 100, 100)
+        btn.Text = state and "✓" or ""
     end
     updateVisual()
 
@@ -436,66 +1547,33 @@ local function createToggle(name, posY, default, callback)
         updateVisual()
         callback(state)
     end)
-
-    return function() return state end, function(newState)
-        state = newState
-        updateVisual()
-        callback(state)
-    end
 end
 
--- === AUTO RESET ===
-local AutoReset = true
-createToggle("Anti Kick", 0, true, function(state)
-    AutoReset = state
+createToggle("Anti Kick", 0, true, function(s) AutoReset = s end)
+local Invisible = false
+createToggle("Invisible", 60, false, function(s) 
+    Invisible = s 
+    if LocalPlayer.Character then
+        for _, p in ipairs(LocalPlayer.Character:GetDescendants()) do
+            if p:IsA("BasePart") or p:IsA("Decal") then p.LocalTransparencyModifier = s and 1 or 0 end
+        end
+    end
 end)
 
+createToggle("Clear Map", 120, false, function(s) 
+    for _, obj in ipairs(workspace:GetDescendants()) do
+        if (obj:IsA("BasePart") or obj:IsA("Decal")) and not obj:IsDescendantOf(LocalPlayer.Character) then
+            obj.LocalTransparencyModifier = s and 1 or 0
+        end
+    end
+end)
+
+-- Anti Kick Loop
+local AutoReset = true
 task.spawn(function()
     while task.wait(13) do
         if AutoReset and LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") then
             LocalPlayer.Character.Humanoid.Health = 0
         end
     end
-end)
-
--- === INVISIBLE (bản thân, giữ khi respawn) ===
-local Invisible = false
-
-local function setInvisible(state)
-    if LocalPlayer.Character then
-        for _, part in ipairs(LocalPlayer.Character:GetDescendants()) do
-            if part:IsA("BasePart") or part:IsA("Decal") then
-                part.LocalTransparencyModifier = state and 1 or 0
-            end
-        end
-    end
-end
-
-local getInvState, setInvState = createToggle("Invisible", 60, false, function(state)
-    Invisible = state
-    setInvisible(Invisible)
-end)
-
--- Khi respawn, nếu Invisible đang bật thì áp lại
-LocalPlayer.CharacterAdded:Connect(function(char)
-    char:WaitForChild("HumanoidRootPart")
-    task.wait(0.2)
-    if Invisible then
-        setInvisible(true)
-    end
-end)
-
--- === CLEAR MAP (tàng hình map) ===
-local function setMapInvisible(state)
-    for _, obj in ipairs(workspace:GetDescendants()) do
-        if obj:IsA("BasePart") or obj:IsA("Decal") then
-            if not obj:IsDescendantOf(LocalPlayer.Character) then
-                obj.LocalTransparencyModifier = state and 1 or 0
-            end
-        end
-    end
-end
-
-createToggle("Clear Map", 120, false, function(state)
-    setMapInvisible(state)
 end)
